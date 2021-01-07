@@ -130,9 +130,9 @@ int main(){
 	ios::sync_with_stdio(0);
 	cin.tie(0);
 	//vectorDemo();
-	//setDemo();
+	setDemo();
 	//mapDemo();
-	pairSetDemo();
+    //pairSetDemo();
 	
 	return 0;
 }
